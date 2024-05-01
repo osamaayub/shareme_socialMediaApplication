@@ -40,9 +40,12 @@ To run the project locally, follow the setup instructions mentioned above. Ensur
 Contribution
 
 Feel free to contribute to this project by submitting pull requests. Any feedback or suggestions are also welcomed.
+
+
 Author
 
 OsamaAyub
+
 License
 
 This project is licensed under the Apache-2.0 license.
