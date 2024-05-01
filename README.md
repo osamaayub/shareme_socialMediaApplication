@@ -1,4 +1,3 @@
-
 Social Media Dashboard using React.js and Material-UI
 
 This project is a Social Media Dashboard built using React.js and Material-UI framework. It includes features for user login, profile management, and registration.
@@ -41,8 +40,7 @@ Contribution
 Feel free to contribute to this project by submitting pull requests. Any feedback or suggestions are also welcomed.
 Author
 
-Osama Ayub
+OsamaAyub
 License
 
-This project is licensed under the [License Name].
-
+This project is licensed under the Apache-2.0 license.
